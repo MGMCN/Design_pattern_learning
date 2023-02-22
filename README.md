@@ -1,4 +1,4 @@
 # Design_pattern_learning -> selfuse
-This repository is for the systematic learning of design patterns built a long time ago, recently ready to pick up and continue to learn.
+This repository was created a long time ago to learn design patterns in a systematic way, and I'm ready to pick it up and continue learning recently.
 # References
 [[1] 大话设计模式](https://book.douban.com/subject/2334288/)
