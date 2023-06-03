@@ -1,4 +1,4 @@
-package _4_代理模式;
+package _7_代理模式;
 
 public class Main {
     public static void main(String args[]){

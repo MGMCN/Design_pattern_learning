@@ -1,18 +1,18 @@
-package _7_模板方法模式;
+package _10_模板方法模式;
 
-public class StudentAPaper extends TestPaper{
+public class StudentBPaper extends TestPaper{
     @Override
     protected String Answer1() {
-        return "b" ;
+        return "a" ;
     }
 
     @Override
     protected String Answer2() {
-        return "a" ;
+        return "b" ;
     }
 
     @Override
     protected String Answer3() {
-        return "a" ;
+        return "c" ;
     }
 }

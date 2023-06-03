@@ -1,4 +1,4 @@
-package _7_模板方法模式;
+package _10_模板方法模式;
 
 public class Main {
     public static void main(String args[]){

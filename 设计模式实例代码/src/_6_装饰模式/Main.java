@@ -1,4 +1,4 @@
-package _3_装饰模式;
+package _6_装饰模式;
 
 public class Main {
     public static void main(String args[]){
